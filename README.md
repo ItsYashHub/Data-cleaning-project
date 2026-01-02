@@ -1,8 +1,3 @@
-Below is a **clean, professional, GitHub-ready `README.md`** tailored exactly to **your Jupyter Notebook data-cleaning project**.
-You can **copy–paste this directly** into a file named **`README.md`** and upload it to GitHub.
-
----
-
 # 🧹 Data Cleaning Using Pandas (Jupyter Notebook)
 
 ## 📌 Project Overview
