@@ -13,3 +13,12 @@ Python 3.x
 Pandas
 
 Jupyter Notebook
+
+
+data-cleaning-project/
+│
+├── Data cleaning.csv        # Raw (dirty) dataset
+├── cleaned_data.csv         # Final cleaned dataset (output)
+├── data_cleaning.ipynb      # Jupyter Notebook with full cleaning logic
+├── requirements.txt         # Project dependencies
+└── README.md                # Project documentation
